@@ -10,3 +10,5 @@
   <li>Update Existing Details using the same form with prefilled previous data.</li>
   <li>Delete any Employee Detail with single click.</li>
 </ul>
+
+> This application was created using Java, Spring Framework, Spring MVC, Thymleaf and Spring Data JPA.
