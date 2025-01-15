@@ -12,3 +12,12 @@
 </ul>
 
 > This application was created using Java, Spring Framework, Spring MVC, Thymleaf and Spring Data JPA.
+
+# Technologies Used
+
+<ol>
+  <li>Java 11 or above</li>
+  <li>Spring Boot</li>
+  <li>Hibernate/Spring Data JPA for ORM mapping</li>
+  <li>MySQL for the database</li>
+</ol>
