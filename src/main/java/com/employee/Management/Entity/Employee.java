@@ -1,7 +1,5 @@
 package com.employee.Management.Entity;
 
-import java.time.LocalDate;
-
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
@@ -21,23 +19,26 @@ public class Employee {
 	private String age;
 	private String gender;
 	private String designation;
-	private LocalDate DOB;
+	private String phonenumber;
 	
 	public Employee() {
 		
 	}
 
-	public Employee(int id, String title, String email, String name, String age, String designation, LocalDate dOB,String gender) {
+
+	public Employee(int id, String title, String email, String name, String age, String gender, String designation,
+			String phoneNumber) {
 		super();
 		this.id = id;
 		this.title = title;
 		this.email = email;
 		this.name = name;
 		this.age = age;
+		this.gender = gender;
 		this.designation = designation;
-		DOB = dOB;
-		this.gender=gender;
+		this.phonenumber = phonenumber;
 	}
+
 
 	public int getId() {
 		return id;
@@ -87,12 +88,13 @@ public class Employee {
 		this.designation = designation;
 	}
 
-	public LocalDate getDOB() {
-		return DOB;
+
+	public String getPhoneNumber() {
+		return phonenumber;
 	}
 
-	public void setDOB(LocalDate dOB) {
-		DOB = dOB;
+	public void setPhoneNumber(String phonenumber) {
+		this.phonenumber = phonenumber;
 	}
 
 	public String getGender() {
