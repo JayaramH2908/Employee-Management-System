@@ -1,5 +1,7 @@
 # Employee Management System
 <p>This Employee Management System performs basic CRUD operations.</p>
+
+# Features
 <ul>
   <li>Add Details such as Name, Age, PhoneNumber, Designation, Title & Gender.</li>
   <li>Uses single form to add details one at a time.</li>
