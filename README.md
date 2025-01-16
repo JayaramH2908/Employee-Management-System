@@ -22,9 +22,9 @@
   <li>MySQL for the database</li>
 </ol>
 
-# Sample GIF
+# Sample Video
 
-https://github.com/user-attachments/assets/0752903b-119c-43b8-a39d-fbd684f136b1
+https://github.com/user-attachments/assets/f604c9ae-871b-42fe-a242-1310a6af2bee
 
 **DESCRIPTION:**
 <p>In this video, I have added an Employee named David and then an employee with the name Lalitha.<br>
