@@ -21,3 +21,9 @@
   <li>Hibernate/Spring Data JPA for ORM mapping</li>
   <li>MySQL for the database</li>
 </ol>
+
+# User Interface
+
+<p>List of Employees - Home Page</p>
+<img src="C:\Project\EMS-Interface\EMS-Get Employee" width="800" height="500">
+
