@@ -22,8 +22,13 @@
   <li>MySQL for the database</li>
 </ol>
 
-# User Interface
+# Sample GIF
 
-<p>List of Employees - Home Page</p>
-<img src="C:\Project\EMS-Interface\EMS-Get Employee" width="800" height="500">
+https://github.com/user-attachments/assets/0752903b-119c-43b8-a39d-fbd684f136b1
+
+**DESCRIPTION:**
+<p>In this video, I have added an Employee named David and then an employee with the name Lalitha.<br>
+Then I have updated the Designation and Age of David Employee.<br>
+After that, I have deleted the Lalitha employee.</p>
+
 
